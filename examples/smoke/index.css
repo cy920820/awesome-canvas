@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* layout/base.css */
+
+body {
+  margin: 0;
+}
+
+/* modules/canvas.css */
+
+canvas {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}

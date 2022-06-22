@@ -1,0 +1,22 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Nunito', sans-serif;
+}
+
+canvas {
+  margin: 0;
+  padding: 0;
+  display: block; /*  ¯\_(ツ)_/¯  */
+  touch-action: none;
+}
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
